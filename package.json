@@ -1,0 +1,16 @@
+{
+  "name": "@oxn/html-webpack-inline-plugin",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "oxn",
+  "repository": "https://github.com/364124337/html-webpack-inline-plugin",
+  "license": "ISC",
+  "dependencies": {
+    "inline-source": "^7.2.0"
+  }
+}
